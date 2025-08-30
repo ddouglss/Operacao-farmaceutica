@@ -1,19 +1,11 @@
 
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-<div >
+### **Data:** 29/08/2025
 
+### **Empresa:** Abstergo Industries
 
-| Item          | Detalhes                       |
-| ------------- | ------------------------------ |
-| Data          | 29/08/2025                     |
-| Empresa       | Abstergo Industries            |
-| Responsável   | Douglas Souza                  |
-
-
-
-
-</div>
+### **Responsável:** Douglas Souza
 
 
 ## Introdução
