@@ -72,7 +72,7 @@
 
 **Assinatura do Responsável pelo Projeto:**
 Douglas Souza
-
+- Linkedin : https://www.linkedin.com/in/ddouglss/
 
 
 
